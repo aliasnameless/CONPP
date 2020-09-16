@@ -3,4 +3,5 @@ CON syntax highlighting for Notepad+
 
 The CON language is used for programming games on the EDUKE32 engine
 
-![Image of Yaktocat](image.png)
+![Image](image.png)
+![How to install](how to.png)
